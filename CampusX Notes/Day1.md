@@ -1,1 +1,3 @@
 # Notes
+
+# Day 1
